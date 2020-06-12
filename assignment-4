@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	Java script program
+	<script type="text/javascript">
+		var x='peter';
+if(x='Jhon'){
+
+			console.log("hello Jjhon");
+}
+		else{
+			console.log("hello Peter");
+			
+			}
+	</script>
+	</html>
